@@ -8,7 +8,8 @@
 <div align="center">
 <p> 🥳 Sou uma dev Full stack apaixonada por tecnologia e com uma leve preferência pelo front-end 🥳</p>
 <p>- Estou a procura de um emprego e tentando entrar na faculdade;</p>
-<p>- Fiz o bootcamp da Generation Brsil(Vocês podem visualizar nos meus repositorios 😊);</p>
+<p>- Paticipei do bootcamp da Generation Brsil, do Santander coders e da segunda edição da Social Tec em parceria com a Embraer, alémde estar efetuando alguns cursos individuais e buscando uma universidade (Vocês podem visualizar nos meus repositorios 😊);</p>
+  
 <p>- Amo Super herois, a minha favorita é a Miss Marvel(Kamala Khan);</p>
 <p>- Aprendi a tocar violão sozinha e a musica é um dos meus hobbies favoritos;</p>
 </div>
