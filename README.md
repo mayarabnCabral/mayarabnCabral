@@ -1,18 +1,19 @@
 
 ### <div align="center"><h1> 👋🏾 Olá, me chamo Mayara 👋🏾 </h1></div>
-<div align="center"><h2> Bem vindo ao meu perfil no GitHub </h2></div> 
+<div align="center"><h2> Bem-vinda ao meu perfil no GitHub </h2></div> 
 
 <div align="center"> 
 <img align="center" alt="kamala-e-carol" height="180" src="https://user-images.githubusercontent.com/101996062/168185786-d07e879e-8471-4664-b82d-82f1b7a825d2.gif"/>
 </div>
 <div align="center">
-<p> 🥳 Sou uma dev Full stack apaixonada por tecnologia e com uma leve preferência pelo front-end 🥳</p>
-<p>- Estou a procura de um emprego e tentando entrar na faculdade;</p>
-<p>- Paticipei do bootcamp da Generation Brsil, do Santander coders e da segunda edição da Social Tec em parceria com a Embraer, alémde estar efetuando alguns cursos individuais e buscando uma universidade (Vocês podem visualizar nos meus repositorios 😊);</p>
+<p> 🥳 Sou analista de suporte e estudante de Engenharia de Software, apaixonada por tecnologia 🥳</p>
+<p>- Trabalho como analista de suporte na TOTVS há 3 anos e, atualmente, estou cursando Engenharia de Software na Universidade Cruzeiro do Sul, com previsão de conclusão em 2029.</p>
+<p>- Participei do bootcamp da Generation Brasil, do Santander Coders e da segunda edição do Social Tech, em parceria com a Embraer. Além disso, estou realizando alguns cursos livres para continuar aprimorando meus conhecimentos (vocês podem conferir nos meus repositórios 😊);</p>
   
-<p>- Amo Super herois, a minha favorita é a Miss Marvel(Kamala Khan);</p>
-<p>- Aprendi a tocar violão sozinha e a musica é um dos meus hobbies favoritos;</p>
+<p>- Amo super-heróis, e minha personagem favorita é a Miss Marvel (Kamala Khan);</p>
+<p>- Aprendi a tocar violão sozinha, e a música é um dos meus hobbies favoritos;</p>
 </div>
+
 
 
 
