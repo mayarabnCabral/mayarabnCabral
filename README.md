@@ -7,6 +7,7 @@
 </div>
 <div align="center">
 <p> 🥳 Sou analista de suporte e estudante de Engenharia de Software, apaixonada por tecnologia 🥳</p>
+<p>- Sou uma pessoa calma, proativa e colaborativa, com facilidade para trabalhar em equipe. Gosto de compartilhar conhecimentos, ajudar meus colegas e aprender continuamente com novas experiências;</p>
 <p>- Trabalho como analista de suporte na TOTVS há 3 anos e, atualmente, estou cursando Engenharia de Software na Universidade Cruzeiro do Sul, com previsão de conclusão em 2029.</p>
 <p>- Participei do bootcamp da Generation Brasil, do Santander Coders e da segunda edição do Social Tech, em parceria com a Embraer. Além disso, estou realizando alguns cursos livres para continuar aprimorando meus conhecimentos (vocês podem conferir nos meus repositórios 😊);</p>
   
